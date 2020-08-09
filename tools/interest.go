@@ -1,6 +1,6 @@
 package tools
 
-// Interest creates an interest
+// Interest creates an interests
 func Interest(num int) int {
-	return 500
+	return 5400
 }
